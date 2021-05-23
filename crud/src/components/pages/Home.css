@@ -1,4 +1,12 @@
-.actions > .MuiButton-root {
-    margin: 6px;
-   
+.MuiCard-root{
+    max-width: 345px;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 550px;
+
 }
+
+.MuiCardContent-root{
+    align-items: center;
+}
+

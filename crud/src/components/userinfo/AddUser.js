@@ -56,6 +56,7 @@ function AddUser() {
               type="email"
               className="form-control form-control-lg"
               placeholder="Enter Your E-mail Address"
+              
               name="email"
               value={email}
               onChange={e => onInputChange(e)}
